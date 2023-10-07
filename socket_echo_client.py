@@ -30,4 +30,4 @@ try:
 
 finally:
     print('closing socket')
-    sock.close()
+    sock.close() #done by jaime act 07/10/23
